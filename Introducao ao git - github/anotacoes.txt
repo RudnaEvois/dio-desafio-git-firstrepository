@@ -1,0 +1,4 @@
+git add . (adicionar a fila)
+git status (verificar status)
+git commit -m "" (commitar com mensagem
+git push origin main (subir ao rep)
